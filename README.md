@@ -61,3 +61,19 @@ SQL (MySQL / PostgreSQL)
 DBMS / SQL Workbench
 
 Penguins Dataset (CSV)
+
+
+Key Learnings
+
+Writing clean and efficient SQL queries
+
+Performing descriptive analysis using SQL
+
+Translating raw data into analytical insights
+
+Building a strong foundation for data analytics
+
+📢 Author
+
+Faizan Bhat
+Aspiring Data Analyst | SQL | Power BI | Data Analytics
